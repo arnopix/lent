@@ -82,9 +82,6 @@ export function Footer() {
                 contact@lent.fr
               </li>
               <li className="text-sm text-muted-foreground">
-                +33 1 86 76 00 00
-              </li>
-              <li className="text-sm text-muted-foreground">
                 Paris · Lyon · Toulouse
               </li>
             </ul>
